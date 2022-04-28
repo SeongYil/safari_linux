@@ -80,7 +80,7 @@ engine_settings:
   no_graphics: true
 
 checkpoint_settings:
-  run_id: safari_3
+  run_id: safari_4
   initialize_from: null
   load_model: false
   resume: false
