@@ -74,7 +74,7 @@ engine_settings:
   no_graphics: true
 
 checkpoint_settings:
-  run_id: safari_NOLSTM_ver1
+  run_id: safari_NOLSTM_ver1_3rd_try
   initialize_from: null
   load_model: false
   resume: false
